@@ -1,14 +1,13 @@
-body{
-  
+body{ 
   max-width: 700px;
   margin: auto;
   padding: 0 30px;
- 
-
-}
+ }
 
 
 p {
   text-align: left;  
   padding: 0 30px;
 }
+
+td:last-child{width:50px;}
